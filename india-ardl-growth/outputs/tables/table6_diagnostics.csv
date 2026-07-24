@@ -1,0 +1,6 @@
+Diagnostic Test,Null Hypothesis,Test Statistic,p-value,Decision,Inference
+Breusch-Pagan-Godfrey,Error variances are homoscedastic,F = 2.32,0.09,Fail to reject H0,No evidence of heteroskedasticity
+Breusch-Godfrey LM,No serial correlation exists,F = 0.11,0.89,Fail to reject H0,Residuals are free from serial correlation
+Jarque-Bera,Residuals are normally distributed,JB = 44.72,0.0,Reject H0,Residuals are not normally distributed
+VIF,No multicollinearity exists,max VIF = 2.06,-,-,No multicollinearity (VIF < 5)
+Ramsey RESET,Model is correctly specified,F = 7.97,0.01,Reject H0,Possible model misspecification / omitted variables

@@ -1,0 +1,5 @@
+,Coefficient,Std. Error,t-stat,p-value,Inference
+const,5.304,0.981,5.41,0.0,Significant
+GDP_Growth.L1,-0.166,0.128,-1.29,0.206,Insignificant
+GFCF_Growth.L0,0.279,0.054,5.15,0.0,Significant
+D_GDS.L0,0.72,0.677,1.06,0.296,Insignificant

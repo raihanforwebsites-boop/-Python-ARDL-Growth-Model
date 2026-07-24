@@ -1,0 +1,4 @@
+Variable,Observations,Mean,Std. Dev.,Min,Max,Jarque-Bera (p-value)
+GDP_Growth,36,6.56,2.87,-5.77,9.68,0.0
+GFCF_Growth,36,7.45,6.91,-7.7,22.19,0.59
+GDS_pct_GDP,36,28.8,4.06,21.63,34.37,0.13

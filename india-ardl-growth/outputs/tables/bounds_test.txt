@@ -1,0 +1,28 @@
+BoundsTestResult
+Stat: 13.17732
+Upper P-value: 1.12e-07
+Lower P-value: 9.34e-09
+Null: No Cointegration
+Alternative: Possible Cointegration
+
+
+UECM long-run/error-correction form:
+                              UECM Model Results                              
+==============================================================================
+Dep. Variable:           D.GDP_Growth   No. Observations:                   35
+Model:                  UECM(1, 1, 1)   Log Likelihood                 -72.133
+Method:               Conditional MLE   S.D. of innovations              7.427
+Date:                Sat, 18 Jul 2026   AIC                            158.266
+Time:                        12:38:38   BIC                            168.951
+Sample:                             1   HQIC                           161.910
+                                   35                                         
+====================================================================================
+                       coef    std err          z      P>|z|      [0.025      0.975]
+------------------------------------------------------------------------------------
+const                5.2791      1.063      4.966      0.000       3.101       7.457
+GDP_Growth.L1       -1.1509      0.185     -6.206      0.000      -1.531      -0.771
+GFCF_Growth.L1       0.2719      0.097      2.812      0.009       0.074       0.470
+D_GDS.L1             0.6640      1.067      0.622      0.539      -1.522       2.850
+D.GFCF_Growth.L0     0.2790      0.056      4.970      0.000       0.164       0.394
+D.D_GDS.L0           0.7326      0.732      1.001      0.326      -0.767       2.232
+====================================================================================

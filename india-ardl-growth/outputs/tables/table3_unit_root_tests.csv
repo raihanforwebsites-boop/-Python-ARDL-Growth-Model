@@ -1,0 +1,4 @@
+Variable,P-value (ADF),P-value (PP-test),Stationarity,Order of Integration
+GDP Growth (%),0.0,0.0,At level,I(0)
+GFCF Growth (%),0.0,0.0,At level,I(0)
+GDS (% of GDP),0.0,0.0,First difference,I(1)
